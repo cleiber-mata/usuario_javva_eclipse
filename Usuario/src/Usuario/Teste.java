@@ -6,7 +6,7 @@ public class Teste {
 		// TODO Auto-generated method stub
 		
 		Empregado joao = new Empregado();
-		joao.setNome("João da Silva");
+		joao.setNome("João da Mata");
 		joao.setSalario(9000);
 		System.out.println("Salário do " + joao.getNome() + ": R$ " + joao.getSalario());
 		
